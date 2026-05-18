@@ -17,7 +17,7 @@ A personalised interactive birthday webpage featuring animated fireworks, synthe
 
 ## 🚀 Live Demo
 
-> 🔗 `https://acarlewis.github.io/YOUR_REPO/`
+> 🔗 `https://acarlewis.github.io/Birthday/`
 
 ---
 
@@ -49,12 +49,12 @@ If no `birthday.mp3` is present, everything still works — only the background 
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git remote add origin https://acarlewis.github.io/Birthday.git
 git push -u origin main
 ```
 3. Go to **Settings → Pages**
 4. Set source to **Deploy from a branch → main → / (root)**
-5. Your site goes live at `https://YOUR_USERNAME.github.io/YOUR_REPO/`
+5. Your site goes live at `https://acarlewis.github.io/Birthday/`
 
 ---
 
