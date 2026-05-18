@@ -18,7 +18,6 @@ A personalised interactive birthday webpage featuring animated fireworks, synthe
 ## 🚀 Live Demo
 
 > 🔗 `https://acarlewis.github.io/YOUR_REPO/`
-> *(update this after deploying to GitHub Pages)*
 
 ---
 
